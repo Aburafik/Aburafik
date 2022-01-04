@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abubakari Abdul Rafik</h1>
-<h4 align="center">A passionate software developer focusing on mobile app development using flutter and an experience facilitator in mobile app development. Additional experience has been gained in contributing to other people’s projects in various flutter communities,. I like reading articles especially flutter and Dart contents, I also make presentations on flutter in various platforms. Am ready to learn and unlearn.</h4>
+<h4 align="center">A passionate software developer focusing on mobile app development using flutter and an experience facilitator in mobile app development.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aburafik&label=Profile%20views&color=0e75b6&style=flat" alt="aburafik" /> </p>
 
