@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aburafik&label=Profile%20views&color=0e75b6&style=flat" alt="aburafik" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aburafik" alt="aburafik" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aburafik" alt="aburafik" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/citizenraf" target="blank"><img src="https://img.shields.io/twitter/follow/citizenraf?logo=twitter&style=for-the-badge" alt="citizenraf" /></a> </p>
+<p align="left"> <a href="https://twitter.com/citizenraf" target="blank"><img src="https://img.shields.io/twitter/follow/citizenraf?logo=twitter&style=for-the-badge" alt="citizenraf" /></a> </p> -->
 
 - 🔭 I’m currently working on [ALiveCare](https://github.com/Aburafik/E-UberApp)
 
