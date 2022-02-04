@@ -37,3 +37,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aburafik&show_icons=true&locale=en&layout=compact" alt="aburafik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aburafik&show_icons=true&locale=en" alt="aburafik" /></p>
+
+<p> Certificates</p>
+
+https://www.credly.com/badges/f79f4bf5-301e-4f31-868a-ce1645b7b2be/public_url
