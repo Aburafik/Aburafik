@@ -40,5 +40,5 @@ https://app.clickup.com/
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aburafik&show_icons=true&locale=en" alt="aburafik" /></p>
 
 <p> Certificates</p>
-<p align="left"> <img src="https://www.credly.com/badges/f79f4bf5-301e-4f31-868a-ce1645b7b2be/public_url" alt="aburafik" /> </p>
+<p ><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dadaf47d-4efd-4469-9d1a-d2908c575bb5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></p>
 
