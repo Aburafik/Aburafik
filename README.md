@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Flutter,Dart,Public Speaking**
 
-- 📫 How to reach me **aburaf@gmail.com**
+- 📫 How to reach me **aburaf892@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1U44ezxpGhWigFTbbf40ky0KbjfxcpoAk/view?usp=sharing](https://drive.google.com/file/d/1U44ezxpGhWigFTbbf40ky0KbjfxcpoAk/view?usp=sharing)
 
