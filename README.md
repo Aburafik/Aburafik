@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **aburaf892@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U44ezxpGhWigFTbbf40ky0KbjfxcpoAk/view?usp=sharing](https://drive.google.com/file/d/1U44ezxpGhWigFTbbf40ky0KbjfxcpoAk/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1CZFGnT8M8z-_1eeJSmYL7sv-TGxVNPCY/view?usp=sharing](https://drive.google.com/file/d/1CZFGnT8M8z-_1eeJSmYL7sv-TGxVNPCY/view?usp=sharing)
 
 - ⚡ Fun fact **I like watching Talents shows**
 
